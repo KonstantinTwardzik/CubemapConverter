@@ -1,7 +1,2 @@
-﻿  Mesh.cpp
-  main.cpp
-c:\users\konstantin\desktop\3. modulaufgabe\cubemapconverter\cubemapconverter\main.cpp(20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\konstantin\desktop\3. modulaufgabe\cubemapconverter\cubemapconverter\main.cpp(22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\konstantin\desktop\3. modulaufgabe\cubemapconverter\cubemapconverter\main.cpp(40): warning C4305: 'argument': truncation from 'double' to 'float'
-  Generating Code...
-  CubemapConverter.vcxproj -> C:\Users\Konstantin\Desktop\3. Modulaufgabe\CubemapConverter\Debug\CubemapConverter.exe
+﻿  Shader.cpp
+  CubemapConverter.vcxproj -> D:\Informatik\GitHub\CubemapConverter\CubemapConverter\Debug\CubemapConverter.exe
